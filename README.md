@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://rafaar.com"><img src="assets/header.svg" width="100%" alt="Rafa Al Razzak — Design & Full-stack Engineer" /></a>
+  <a href="https://rafaar.com"><img src="assets/header.svg?v=2" width="100%" alt="Rafa Al Razzak — Design & Full-stack Engineer" /></a>
 </div>
 
 <p align="center">I build fast, well-crafted web products end to end — from interface design through to the systems behind them.</p>
