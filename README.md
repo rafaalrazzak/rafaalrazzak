@@ -47,7 +47,6 @@ Creator gifting platform for Indonesian streamers — 10,000+ users, 2,500+ crea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaalrazzak&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=rafaalrazzak&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 <br>
