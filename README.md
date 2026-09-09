@@ -1,10 +1,10 @@
 <div align="center">
+  <a href="https://rafaar.com"><img src="assets/header.svg" width="100%" alt="Rafa Al Razzak — Design & Full-stack Engineer" /></a>
+</div>
 
-<a href="https://rafaar.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Rafa+Al+Razzak;Design+%26+Full-stack+Engineer;Bogor%2C+Indonesia;TypeScript+%C2%B7+React+%C2%B7+Go" alt="Typing SVG" />
-</a>
+<p align="center">I build fast, well-crafted web products end to end — from interface design through to the systems behind them.</p>
 
-I build fast, well-crafted web products end to end — from interface design through to the systems behind them.
+<div align="center">
 
 [![Website](https://img.shields.io/badge/rafaar.com-000?style=flat-square&logo=safari&logoColor=white)](https://rafaar.com)
 [![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:me@rafaar.com)
