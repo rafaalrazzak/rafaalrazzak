@@ -6,16 +6,16 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/rafaar.com-000?style=flat-square&logo=safari&logoColor=white)](https://rafaar.com)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:me@rafaar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaalrazzak)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/rafaalrazzak)
+[![Website](https://img.shields.io/badge/rafaar.com-13161B?style=flat-square&logo=safari&logoColor=EFECE6)](https://rafaar.com)
+[![Email](https://img.shields.io/badge/Email-13161B?style=flat-square&logo=gmail&logoColor=5EB6DE)](mailto:me@rafaar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-13161B?style=flat-square&logo=linkedin&logoColor=5EB6DE)](https://www.linkedin.com/in/rafaalrazzak)
+[![X](https://img.shields.io/badge/X-13161B?style=flat-square&logo=x&logoColor=EFECE6)](https://x.com/rafaalrazzak)
 
 </div>
 
 <br>
 
-## Work
+### WORK
 
 **[ngonlenin](https://ngonlenin.id/)** — Full-stack Engineer & Finance, 2026–present
 Commerce platform for Indonesian small businesses: shareable storefront, QR ordering, live cashier/kitchen queues.
@@ -29,7 +29,7 @@ Plagiarism/AI-detection service for Indonesian students, with paraphrasing and d
 Creator gifting platform for Indonesian streamers — 10,000+ users, 2,500+ creators.
 `Next.js` `Postgres` `Realtime` `Payments`
 
-## Projects
+### PROJECTS
 
 - **[Ryu](https://ryu.rin.ci/)** — spending tracker, web + desktop · `TanStack` `Tauri` `Cloudflare`
 - **[Rinci](https://link.rin.ci/)** — short links, custom domains, click analytics · `Astro` `React`
@@ -37,17 +37,17 @@ Creator gifting platform for Indonesian streamers — 10,000+ users, 2,500+ crea
 - **[Events Platform](https://events.kita.blue/)** — multi-tenant ticketing & event management · `Next.js`
 - **[NFCC](https://nfcc.my.id/)** — offensive security workshops & CTF site for Nurul Fikri Cybersecurity Community
 
-## Stack
+### STACK
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,solidjs,astro,tailwind,bun,nodejs,postgres,redis,kubernetes,docker,terraform,figma&theme=dark" alt="Stack" />
 </div>
 
-## GitHub
+### GITHUB
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=rafaalrazzak&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=rafaalrazzak&hide_border=true&background=13161B&ring=5EB6DE&fire=5EB6DE&currStreakNum=EFECE6&sideNums=EFECE6&currStreakLabel=A6A196&sideLabels=A6A196&dates=6b6558" alt="GitHub streak" />
 
 <br>
 
