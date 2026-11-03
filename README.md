@@ -17,7 +17,7 @@
 
 ### WORK
 
-**[ngonlenin](https://ngonlenin.id/)** — CTO, 2026–present
+**[ngonlenin](https://ngonlenin.id/)** — CTO & Full-stack Engineer, 2026–present
 Commerce platform for Indonesian small businesses: shareable storefront, QR ordering, live cashier/kitchen queues.
 `Next.js` `Postgres` `Realtime` `Payments`
 
