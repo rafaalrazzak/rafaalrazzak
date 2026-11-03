@@ -2,7 +2,7 @@
   <a href="https://rafaar.com"><img src="assets/header.svg?v=3" width="100%" alt="Rafa Al Razzak — Design & Full-stack Engineer" /></a>
 </div>
 
-<p align="center">I build fast, well-crafted web products end to end — from interface design through to the systems behind them.</p>
+<p align="center">I design and build web products, from the interface to the backend.</p>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ### WORK
 
-**[ngonlenin](https://ngonlenin.id/)** — Full-stack Engineer & Finance, 2026–present
+**[ngonlenin](https://ngonlenin.id/)** — CTO, 2026–present
 Commerce platform for Indonesian small businesses: shareable storefront, QR ordering, live cashier/kitchen queues.
 `Next.js` `Postgres` `Realtime` `Payments`
 
@@ -26,13 +26,14 @@ Plagiarism/AI-detection service for Indonesian students, with paraphrasing and d
 `Next.js` `Bun` `Kubernetes` `Terraform`
 
 **[Tako](https://tako.id/)** — Full-stack Engineer, 2023–present
-Creator gifting platform for Indonesian streamers — 10,000+ users, 2,500+ creators.
+Creator gifting platform for Indonesian streamers. 10,000+ users, 2,500+ creators.
 `Next.js` `Postgres` `Realtime` `Payments`
 
 ### PROJECTS
 
 - **[Ryu](https://ryu.rin.ci/)** — spending tracker, web + desktop · `TanStack` `Tauri` `Cloudflare`
 - **[Rinci](https://link.rin.ci/)** — short links, custom domains, click analytics · `Astro` `React`
+- **[Rinci Secrets](https://secrets.rin.ci/)** — one CLI to load env vars from 11 secrets managers, zero dependencies · `TypeScript` `Bun`
 - **[Almach](https://almach.kita.blue/)** — accessible React component library, 30+ components · `React Aria` `Tailwind v4` `TanStack`
 - **[Events Platform](https://events.kita.blue/)** — multi-tenant ticketing & event management · `Next.js`
 - **[NFCC](https://nfcc.my.id/)** — offensive security workshops & CTF site for Nurul Fikri Cybersecurity Community
